@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="artwork_height">100dp</dimen>
+    <dimen name="artwork_width">100dp</dimen>
+    <dimen name="name_title_textsize">20sp</dimen>
+    <dimen name="artist_name_textsize">16sp</dimen>
+    <dimen name="recycler_loadingview_height">80dp</dimen>
+
+</resources>
